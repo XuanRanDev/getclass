@@ -1,0 +1,15 @@
+res path mapping:
+    res/drawable-mdpi-v4 -> r/a
+    res/drawable-hdpi-v4 -> r/b
+    res/layout -> r/c
+    res/drawable-xhdpi-v4 -> r/d
+    res/drawable-xxhdpi-v4 -> r/e
+
+
+res id mapping:
+    com.XuanRan.GetClass.R.drawable.ic_launcher -> com.XuanRan.GetClass.R.drawable.a
+    com.XuanRan.GetClass.R.layout.main -> com.XuanRan.GetClass.R.layout.a
+    com.XuanRan.GetClass.R.string.app_name -> com.XuanRan.GetClass.R.string.a
+    com.XuanRan.GetClass.R.string.hello_world -> com.XuanRan.GetClass.R.string.b
+    com.XuanRan.GetClass.R.style.AppTheme -> com.XuanRan.GetClass.R.style.a
+    com.XuanRan.GetClass.R.id.mainTextView -> com.XuanRan.GetClass.R.id.a

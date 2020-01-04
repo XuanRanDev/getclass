@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:20
+-keep class com.XuanRan.GetClass.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.XuanRan.GetClass.XuanRanCSApplication { <init>(...); }
+
